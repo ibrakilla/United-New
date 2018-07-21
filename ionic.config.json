@@ -1,0 +1,8 @@
+{
+  "name": "United-New",
+  "app_id": "c0ff9a7f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
